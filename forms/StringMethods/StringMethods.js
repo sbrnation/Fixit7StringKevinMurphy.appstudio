@@ -28,3 +28,5 @@ console.log(letter)
 //h.create a new vairable named findString. remove this part of the second Quote string and put it in find String variable
 let findString = secondQuote.replace ("What separates the talented individual from the successful one is a lot of hard work.","")
 console.log(findString)
+
+
